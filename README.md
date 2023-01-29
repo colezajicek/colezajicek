@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Thomas Cole Zajicek (he/him), an aspiring software developer in Dallas, TX.
+## Hello, I'm Thomas Cole Zajicek (he/him), an aspiring software developer in Dallas, TX.
 
 I've previously worked as a welder, fabricator, machinist, CAD designer, and a long list of freelance skillsets.
 
@@ -25,5 +25,10 @@ I'm currently working through Codecademy's Front End Dev pipeline.
 
 Feel free to ask me anything.
 
-I can be reached via LinkedIn: Linkedin.com//in/tczajicek or Instagram: Instagram.com/unholyfab or wherever else my internet trail meets a messaging function
+I can be reached via:
+### [LinkedIn](Linkedin.com//in/tczajicek) 
+or 
+### [Instagram](Instagram.com/unholyfab) 
+
+or wherever else my internet trail meets a messaging function
 
